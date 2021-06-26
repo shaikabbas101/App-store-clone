@@ -1,0 +1,10 @@
+.tab-item {
+  border: none;
+  background-color: transparent;
+  color: #7b8794;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.active-tab {
+  color: #2563eb;
+}
